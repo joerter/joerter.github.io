@@ -1,6 +1,10 @@
 ## Added features of the Don't Break the Chain App
+* Stylized interface
 * Multiple named activities
 * Reset activities
 * Customizable activity length
 * Unit tests
 * Public/shareable activities
+
+This blog is going to be mainly for showcasing apps I build for myself using
+technologies I want to learn. This first one is a Don't Break the Chain app.
